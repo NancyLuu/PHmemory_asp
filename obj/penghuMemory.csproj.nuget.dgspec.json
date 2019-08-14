@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/NancyLu/Documents/web/project/memory in PH/penghuMemory_asp/penghuMemory.csproj": {}
+  },
+  "projects": {
+    "/Users/NancyLu/Documents/web/project/memory in PH/penghuMemory_asp/penghuMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/NancyLu/Documents/web/project/memory in PH/penghuMemory_asp/penghuMemory.csproj",
+        "projectName": "penghuMemory",
+        "projectPath": "/Users/NancyLu/Documents/web/project/memory in PH/penghuMemory_asp/penghuMemory.csproj",
+        "packagesPath": "/Users/NancyLu/.nuget/packages/",
+        "outputPath": "/Users/NancyLu/Documents/web/project/memory in PH/penghuMemory_asp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/NancyLu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
